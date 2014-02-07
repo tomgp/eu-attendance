@@ -1,0 +1,9 @@
+{
+  "name": "eu-attendance",
+  "version": "0.0.0",
+  "dependencies": {
+    "moment": "~2.5.1",
+    "jsdom": "~0.10.0",
+    "d3": "~3.4.1"
+  }
+}
